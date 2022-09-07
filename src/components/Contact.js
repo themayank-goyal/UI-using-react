@@ -17,6 +17,7 @@ const Contact = () => {
         <p>Alam Sutera Serpong, Tangerang 15323</p>
       </div>
       <div className='contact'>
+        <h3>Contact</h3>
         <p>Phone : +62.21.5314.1135</p>
         <p> Fax : +62.21.5314.1135 </p>
         <p> Email : community@dwidasa.com </p>

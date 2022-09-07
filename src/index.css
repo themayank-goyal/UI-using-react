@@ -39,9 +39,7 @@ code {
   margin: 0 auto;
 }
 
-/*****NAVBAR*****/
-/***************/
-
+/**NAVBAR**/
 .navbar {
   width: 100vw;
   display: flex;
@@ -80,6 +78,8 @@ code {
   cursor: pointer;
 }
 
+/*HERO SECTION */
+
 .hero {
   max-width: 120rem;
   margin: 0 auto;
@@ -115,6 +115,8 @@ code {
   width: 70%;
 }
 
+/*BUTTON*/
+
 .readBtn {
   font-size: 1.5rem;
   padding: 0.8rem 1.6rem;
@@ -129,6 +131,8 @@ code {
 .readBtn:hover{
   background-color: #ee4248ce;
 }
+
+/* PRODUCT AND SERVICE SECTION */
 
 .service {
   width: 20%;
@@ -168,6 +172,8 @@ code {
   margin-right: auto;
 }
 
+/* SPECIALIST SECTION */
+
 .specialistCard {
   display: flex;
   flex-direction: column;
@@ -194,6 +200,8 @@ code {
   border-radius: 50%;
   cursor: pointer;
 }
+
+/*WELCOME SECTION*/
 
 .welcomeSection {
   display: flex;
@@ -222,6 +230,8 @@ code {
   align-items: center;
 }
 
+/*ADDRESS AND CONTACT SECTION */
+
 .address > p{
   color: #263238;
 }
@@ -234,14 +244,16 @@ code {
   font-size: 1.4rem;
 }
 
+.address{
+  margin-top: 2rem;
+}
+
+/*FOOTER*/
+
 footer {
   text-align: center;
   margin-top: 3rem;
   padding: 1rem;
   background-color: #ee4248;
   color: white;
-}
-
-.blankDiv{
-  width: 50%;
 }

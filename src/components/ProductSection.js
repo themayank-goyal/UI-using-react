@@ -10,7 +10,7 @@ const ProductSection = () => {
     serviceImg: ProductImg1,
     serviceName: 'Our Product',
     serviceInfo:
-      `Our product is made on the base of our team’s careful research and analyses, ranging from internet based lorem application.`,
+      `Our product is made on the base of our team’s careful research and analyses, ranging from internet based software application.`,
   };
   const productInfo2 = {
     serviceImg: ProductImg2,

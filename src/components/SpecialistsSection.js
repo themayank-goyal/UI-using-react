@@ -15,8 +15,8 @@ const SpecialistsSection = () => {
     <SectionCard className="specialistSection">
       <SpecialistCard imgURL={s1} designation="System Analyst" person="Rodney Stratton" />
       <SpecialistCard imgURL={s2} designation="System Analyst" person="Rodney Stratton" />
-      <SpecialistCard imgURL={s3} designation="System Analyst" person="Rodney Stratton" />
-      <SpecialistCard imgURL={s4} designation="System Analyst" person="Rodney Stratton" />
+      <SpecialistCard imgURL={s3} designation="Programmer" person="Rodney Stratton" />
+      <SpecialistCard imgURL={s4} designation="Programmer" person="Rodney Stratton" />
     </SectionCard>
     </>
   )

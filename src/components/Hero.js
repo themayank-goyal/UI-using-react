@@ -7,7 +7,6 @@ const Hero = () => {
     <div className='hero'>
       <div className='hero__left'>
         <div className='hero__content'>
-          <div className='blankDiv'></div>
           <h1>
             Making the most of the <br /> ever-growing <br />{' '}
             <span>Information technology</span>{' '}
