@@ -6,18 +6,16 @@ const Hero = () => {
   return (
     <div className='hero'>
       <div className='hero__left'>
-        <div className='hero__leftItems'>
-          <div className='hero__content'>
-        <div className='blankDiv'></div>
-            <h1>
-              Making the most of the ever-growing{' '}
-              <span>Information technology</span>{' '}
-            </h1>
-            <p>
-              Managed by a team of professional experts with extensive
-              experience and impressive track records
-            </p>
-          </div>
+        <div className='hero__content'>
+          <div className='blankDiv'></div>
+          <h1>
+            Making the most of the <br /> ever-growing <br />{' '}
+            <span>Information technology</span>{' '}
+          </h1>
+          <p>
+            Managed by a team of professional experts with extensive experience
+            and impressive track records
+          </p>
           <Button />
         </div>
       </div>

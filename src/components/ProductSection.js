@@ -25,11 +25,14 @@ const ProductSection = () => {
       'First JAVA, runs on more than 850 million personal computers worldwide, and on billions of devices worldwide, including mobile and TV devices.',
   };
   return (
+    <>
+    <h1 className='sectionTitle'>Product and Service</h1>
     <SectionCard>
       <Service productInfo={productInfo1} />
       <Service productInfo={productInfo2} />
       <Service productInfo={productInfo3} />
     </SectionCard>
+    </>
   );
 };
 

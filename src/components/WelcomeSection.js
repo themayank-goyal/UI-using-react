@@ -3,7 +3,7 @@ import imgURL from '../assets/pana-1.svg';
 
 const WelcomeSection = () => {
   return (
-    <div className='welcomeSection'>
+    <div className='welcomeSection center'>
       <img src={imgURL} alt='' />
       <div className='welcomeSection__content'>
         <h1>
